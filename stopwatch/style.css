@@ -1,0 +1,28 @@
+h1 {
+  margin-top: 60px;
+  font-size: 50px;
+  text-align: center;
+}
+body {
+  text-align: center;
+  font: 24px/30px 'Noto Sans CJK KR', Noto Sans KR, sans-serif
+}
+.clock {
+  padding-top: 50px;
+  font-size: 70px;
+  height: 20px;
+}
+.start {
+  margin-top: 40px;
+  font-size: 20px;
+}
+.stop {
+  font-size: 20px;
+}
+.record {
+  font-size: 20px;
+}
+.reset {
+  font-size: 20px;
+}
+
